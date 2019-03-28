@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Parallel Screens (Oreo ARM64) by JarlPenguin
+kernel.string=Parallel Screens (Oreo ARM64)
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
